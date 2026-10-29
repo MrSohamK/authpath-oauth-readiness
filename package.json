@@ -1,0 +1,13 @@
+{
+  "name": "authpath-oauth-readiness",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Evidence-first OAuth setup readiness guides for developers building AI agents.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
